@@ -8,3 +8,6 @@ List of important links
 
 # CPU Usage CGI
 1. https://isjw.uk/webpage-to-monitor-cpu-usage-on-a-linux-box/
+
+# GSM Module
+https://www.rhydolabz.com/wiki/?p=16325

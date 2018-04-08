@@ -11,3 +11,6 @@ List of important links
 
 # GSM Module
 https://www.rhydolabz.com/wiki/?p=16325
+
+# AR Drone
+https://www.youtube.com/watch?time_continue=384&v=wQNdOuOxKSU
